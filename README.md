@@ -15,3 +15,14 @@ Wait for Device to get Ready
 &nbsp;
 
 <img src="https://i.imgur.com/UyKiPm0.png" alt="Step-2 Image" width="600px"/>
+
+
+## Step 2
+
+Open Device Manager. Press 'Windows Start' button on you keyboard and search for 'Device Manager' and open.
+
+<img src="https://i.imgur.com/Xov3eGd.jpeg" alt="Step-3 Image" width="600px"/>
+
+## Step 3
+
+https://i.imgur.com/N5QsGg8.jpeg
