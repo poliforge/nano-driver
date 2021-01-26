@@ -67,7 +67,7 @@
 
 <img src="https://i.imgur.com/5yJhtHw.jpeg" alt="Step-9 Image" width="600px"/>
 
-* In Menubar, go to Tools > Port > COM7 (or it can be any other number)
+* In Menubar, go to Tools > Port > COM7 (or it can be any other number, do not select COM1)
 
 <img src="https://i.imgur.com/FHGE92W.jpeg" alt="Step-10 Image" width="600px"/>
 
